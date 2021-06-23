@@ -1,2 +1,2 @@
 # Projects
-Personal projects.
+MY personal collection of projects that I have done
